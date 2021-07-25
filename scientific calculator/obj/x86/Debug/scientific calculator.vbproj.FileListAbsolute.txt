@@ -1,0 +1,22 @@
+C:\Users\ash bhat\AppData\Local\Temporary Projects\scientific calculator\bin\Debug\scientific calculator.exe
+C:\Users\ash bhat\AppData\Local\Temporary Projects\scientific calculator\bin\Debug\scientific calculator.pdb
+C:\Users\ash bhat\AppData\Local\Temporary Projects\scientific calculator\bin\Debug\scientific calculator.xml
+C:\Users\ash bhat\AppData\Local\Temporary Projects\scientific calculator\obj\x86\Debug\scientific_calculator.Form1.resources
+C:\Users\ash bhat\AppData\Local\Temporary Projects\scientific calculator\obj\x86\Debug\scientific_calculator.Resources.resources
+C:\Users\ash bhat\AppData\Local\Temporary Projects\scientific calculator\obj\x86\Debug\scientific calculator.vbproj.GenerateResource.Cache
+C:\Users\ash bhat\AppData\Local\Temporary Projects\scientific calculator\obj\x86\Debug\scientific calculator.exe
+C:\Users\ash bhat\AppData\Local\Temporary Projects\scientific calculator\obj\x86\Debug\scientific calculator.xml
+C:\Users\ash bhat\AppData\Local\Temporary Projects\scientific calculator\obj\x86\Debug\scientific calculator.pdb
+C:\Users\ash bhat\Desktop\VB.NET projects 2018\scientific calculator\scientific calculator\obj\x86\Debug\scientific calculator.exe
+C:\Users\ash bhat\Desktop\VB.NET projects 2018\scientific calculator\scientific calculator\obj\x86\Debug\scientific calculator.xml
+C:\Users\ash bhat\Desktop\VB.NET projects 2018\scientific calculator\scientific calculator\obj\x86\Debug\scientific calculator.pdb
+C:\Users\ash bhat\Desktop\VB.NET projects 2018\scientific calculator\scientific calculator\bin\Debug\scientific calculator.exe
+C:\Users\ash bhat\Desktop\VB.NET projects 2018\scientific calculator\scientific calculator\bin\Debug\scientific calculator.pdb
+C:\Users\ash bhat\Desktop\VB.NET projects 2018\scientific calculator\scientific calculator\bin\Debug\scientific calculator.xml
+C:\Users\ash bhat\Desktop\VB.NET projects 2018\scientific calculator\scientific calculator\obj\x86\Debug\scientific_calculator.Form1.resources
+C:\Users\ash bhat\Desktop\VB.NET projects 2018\scientific calculator\scientific calculator\obj\x86\Debug\scientific_calculator.Resources.resources
+C:\Users\ash bhat\Desktop\VB.NET projects 2018\scientific calculator\scientific calculator\obj\x86\Debug\scientific calculator.vbproj.GenerateResource.Cache
+C:\Users\ash bhat\Desktop\VB.NET projects 2018\scientific calculator\scientific calculator\bin\Debug\scientific calculator.exe.manifest
+C:\Users\ash bhat\Desktop\VB.NET projects 2018\scientific calculator\scientific calculator\bin\Debug\scientific calculator.application
+C:\Users\ash bhat\Desktop\VB.NET projects 2018\scientific calculator\scientific calculator\obj\x86\Debug\scientific calculator.exe.manifest
+C:\Users\ash bhat\Desktop\VB.NET projects 2018\scientific calculator\scientific calculator\obj\x86\Debug\scientific calculator.application
