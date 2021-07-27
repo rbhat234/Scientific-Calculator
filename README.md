@@ -4,8 +4,8 @@ The calculator possess the following functions: +,-,*,/,%,log,sqr,cube root,mod,
 
 # Screenshots of Scientific Calculator
 
-![My SS](https://github.com/rbhat234/Scientific-Calculator/blob/master/scientific%20calculator/s1.jpg.jpg)
+![My SS](https://github.com/rbhat234/Scientific-Calculator/blob/master/scientific%20calculator/s1.jpg)
 
-![My SS](https://github.com/rbhat234/Scientific-Calculator/blob/master/scientific%20calculator/s2.jpg.jpg)
+![My SS](https://github.com/rbhat234/Scientific-Calculator/blob/master/scientific%20calculator/s2.jpg)
 
-![My SS](https://github.com/rbhat234/Scientific-Calculator/blob/master/scientific%20calculator/s3.jpg.jpg)
+![My SS](https://github.com/rbhat234/Scientific-Calculator/blob/master/scientific%20calculator/s3.jpg)
